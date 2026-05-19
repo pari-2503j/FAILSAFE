@@ -1,0 +1,31 @@
+.predict-container {
+
+  margin-top: 40px;
+  background: #161b22;
+  padding: 20px;
+  border-radius: 10px;
+
+}
+
+.form-grid {
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+
+}
+
+.form-grid input {
+
+  padding: 10px;
+
+}
+
+.result-card {
+
+  margin-top: 20px;
+  padding: 20px;
+  background: #21262d;
+  border-radius: 10px;
+
+}

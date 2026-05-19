@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0d1117;
+  color: white;
+}
+
+.app {
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  font-size: 42px;
+  margin-bottom: 30px;
+}

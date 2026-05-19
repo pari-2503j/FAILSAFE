@@ -1,0 +1,46 @@
+.dashboard {
+
+  margin-bottom: 40px;
+
+}
+
+.cards {
+
+  display: flex;
+  gap: 20px;
+
+}
+
+.card {
+
+  flex: 1;
+  background: #161b22;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+
+}
+
+.trend-section {
+
+  margin-top: 40px;
+  background: #161b22;
+  padding: 20px;
+  border-radius: 10px;
+
+}
+
+table {
+
+  width: 100%;
+  border-collapse: collapse;
+
+}
+
+th,
+td {
+
+  border: 1px solid #30363d;
+  padding: 12px;
+
+}
